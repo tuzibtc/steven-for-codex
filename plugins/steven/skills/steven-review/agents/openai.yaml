@@ -1,0 +1,6 @@
+interface:
+  display_name: "史蒂文·产品审查"
+  short_description: "独立核对实现与 PRD、设计和技术边界是否真正一致"
+  default_prompt: "使用 $steven-review 审查当前实现是否完整且没有越过定稿 PRD。"
+policy:
+  allow_implicit_invocation: true

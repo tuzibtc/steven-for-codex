@@ -1,0 +1,6 @@
+interface:
+  display_name: "史蒂文·对齐恢复"
+  short_description: "修复事实冲突、方向漂移、外部不同步和长任务异常"
+  default_prompt: "使用 $steven-align-recover 查清当前项目的分叉点并恢复可信继续状态。"
+policy:
+  allow_implicit_invocation: true

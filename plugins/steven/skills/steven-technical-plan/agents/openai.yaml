@@ -1,0 +1,6 @@
+interface:
+  display_name: "史蒂文·技术方案"
+  short_description: "设计最小 Codex 原生架构、工作包、迁移和回滚方案"
+  default_prompt: "使用 $steven-technical-plan 为已确认产品设计制定最小可靠技术方案。"
+policy:
+  allow_implicit_invocation: true

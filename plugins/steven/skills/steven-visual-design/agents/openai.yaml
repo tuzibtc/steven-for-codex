@@ -1,0 +1,6 @@
+interface:
+  display_name: "史蒂文·视觉设计"
+  short_description: "按产品需要建立视觉方向和设计系统"
+  default_prompt: "使用 $steven-visual-design 为这个产品完成可比较的视觉方向和实现依据。"
+policy:
+  allow_implicit_invocation: true

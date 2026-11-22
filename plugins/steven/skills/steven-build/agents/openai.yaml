@@ -1,0 +1,6 @@
+interface:
+  display_name: "史蒂文·研发实施"
+  short_description: "按定稿 PRD 持续实现、验证并清除被替换的旧实现"
+  default_prompt: "使用 $steven-build 按当前技术方案持续开发并验证到可审查结果。"
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,6 @@
+interface:
+  display_name: "史蒂文"
+  short_description: "用 Codex 的完整能力持续把产品研发做到真实验收"
+  default_prompt: "使用 $steven 接管当前产品项目，并持续推进到有证据的可验收结果。"
+policy:
+  allow_implicit_invocation: true

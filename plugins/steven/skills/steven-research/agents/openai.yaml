@@ -1,0 +1,6 @@
+interface:
+  display_name: "史蒂文·研发调研"
+  short_description: "大范围比较案例、用户反馈和源码，为重大决定提供依据"
+  default_prompt: "使用 $steven-research 调研成熟案例和真实反馈后给出推荐。"
+policy:
+  allow_implicit_invocation: true

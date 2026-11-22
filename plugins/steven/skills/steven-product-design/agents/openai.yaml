@@ -1,0 +1,6 @@
+interface:
+  display_name: "史蒂文·产品设计"
+  short_description: "设计核心流程、功能架构、状态与可理解的产品原型"
+  default_prompt: "使用 $steven-product-design 把当前 PRD 设计成完整可用的产品流程。"
+policy:
+  allow_implicit_invocation: true

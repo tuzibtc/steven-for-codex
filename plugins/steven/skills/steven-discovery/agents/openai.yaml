@@ -1,0 +1,6 @@
+interface:
+  display_name: "史蒂文·产品研讨"
+  short_description: "澄清真实问题、挑战假设并形成可决策的产品方向"
+  default_prompt: "使用 $steven-discovery 像产品合伙人一样和我共同思考；贡献判断、反证和新视角，只在真正必要时自然追问，证据足够后再推荐。"
+policy:
+  allow_implicit_invocation: true

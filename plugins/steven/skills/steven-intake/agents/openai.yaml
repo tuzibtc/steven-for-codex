@@ -1,0 +1,6 @@
+interface:
+  display_name: "史蒂文·项目接管"
+  short_description: "认清当前项目、恢复可信上下文并选择正确研发入口"
+  default_prompt: "使用 $steven-intake 核对当前项目事实和研发状态后继续。"
+policy:
+  allow_implicit_invocation: true

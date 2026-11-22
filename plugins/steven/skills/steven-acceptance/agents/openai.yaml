@@ -1,0 +1,6 @@
+interface:
+  display_name: "史蒂文·产品验收"
+  short_description: "用真实任务和逐条 PRD 证据判断产品是否真正完成"
+  default_prompt: "使用 $steven-acceptance 对当前产品进行完整、证据化的 PRD 验收。"
+policy:
+  allow_implicit_invocation: true

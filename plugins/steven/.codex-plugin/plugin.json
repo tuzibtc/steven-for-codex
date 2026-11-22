@@ -1,0 +1,35 @@
+{
+  "name": "steven",
+  "version": "0.1.2",
+  "description": "基于 Codex 推理能力的端到端产品研发伙伴",
+  "author": {
+    "name": "tuzi"
+  },
+  "repository": "https://github.com/tuzibtc/steven-for-codex",
+  "keywords": [
+    "产品研发",
+    "PRD",
+    "产品设计",
+    "视觉设计",
+    "研发验收"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Steven — AI Product Manager",
+    "shortDescription": "让 Codex 按完整产品研发方法持续把真实项目做成",
+    "longDescription": "史蒂文以 Codex 的 LLM 与 Agents 能力为核心，补充产品研讨、调研、PRD、产品与视觉设计、技术实施、审查、验收和事实恢复方法；内部专业，外部只用自然对话。",
+    "developerName": "tuzi",
+    "category": "Productivity",
+    "capabilities": [
+      "产品研发",
+      "持续推进",
+      "证据验收"
+    ],
+    "defaultPrompt": [
+      "用史蒂文承接这个产品需求，并持续推进到可验收结果。",
+      "用史蒂文核对当前项目事实、PRD 和研发状态后继续。",
+      "用史蒂文审查这个版本是否真正满足定稿 PRD。"
+    ],
+    "brandColor": "#2563EB"
+  }
+}

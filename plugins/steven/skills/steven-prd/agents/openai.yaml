@@ -1,0 +1,6 @@
+interface:
+  display_name: "史蒂文·PRD"
+  short_description: "创建和治理唯一产品标准，保护定稿并管理后继变更"
+  default_prompt: "使用 $steven-prd 把已确认的产品方向整理为可验收 PRD。"
+policy:
+  allow_implicit_invocation: true
